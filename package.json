@@ -1,8 +1,8 @@
 {
-  "name": "ACD-MD",
+  "name": "Baye Hadjifall",
   "version": "1.0.0",
   "description": "A WhatsApp Bot Created By Main Cyber Team",
-  "main": "index.js",
+  "main": "42a2185a,
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ACD-MD",
     "stop": "pm2 stop ACD-MD",
@@ -22,7 +22,7 @@
     "node-fetch": "^2.6.1",
     "megajs": "^1.1.0",
     "vm": "^0.1.0",
-    "qrcode-terminal": "^0.12.0",
+    "qrcode-terminal": "42a2185a"
     "yt-search":"2.12.1",
     "api-dylux":"1.8.5"
   }
